@@ -1,0 +1,50 @@
+{
+  "id": 538865807,
+  "type": "Feature",
+  "properties": {
+    "edtf:cessation":"uuuu",
+    "edtf:inception":"uuuu",
+    "geom:area":0.0,
+    "geom:bbox":"0.0,0.0,0.0,0.0",
+    "geom:latitude":0.0,
+    "geom:longitude":0.0,
+    "iso:country":"BN",
+    "src:geom":"geoplanet",
+    "wof:belongsto":[
+        102191569,
+        85632749,
+        85669487,
+        421198773
+    ],
+    "wof:breaches":[],
+    "wof:concordances":{
+        "gp:id":"56049576"
+    },
+    "wof:country":"BN",
+    "wof:geomhash":"fc4d4085e55d16b479f231dbf54d3cfb",
+    "wof:hierarchy":[
+        {
+            "continent_id":102191569,
+            "country_id":85632749,
+            "county_id":421198773,
+            "postalcode_id":538865807,
+            "region_id":85669487
+        }
+    ],
+    "wof:id":538865807,
+    "wof:lastmodified":1460092661,
+    "wof:name":"BE",
+    "wof:parent_id":"421198773",
+    "wof:placetype":"postalcode",
+    "wof:superseded_by":[],
+    "wof:supersedes":[],
+    "wof:tags":[]
+},
+  "bbox": [
+    0.0,
+    0.0,
+    0.0,
+    0.0
+],
+  "geometry": {"coordinates":[0.0,0.0],"type":"Point"}
+}
